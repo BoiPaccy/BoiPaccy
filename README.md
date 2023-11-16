@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>The one</title>
+    The one
   </head>
   <body>
     <center>
@@ -9,6 +9,8 @@
     <h2> Log in Movie Hub</h2>
       <input type="email" placeholder="Email">
       <input type="password" placeholder="Password">
-      
+      <button>Log in</button>
+      <hr>
+      <button>Create new account</button>
   </body>
 </html>
